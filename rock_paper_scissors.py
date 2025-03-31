@@ -61,7 +61,7 @@ def main():
     MOVE_IMAGES = {
     'Rock': 'images/rock.png',
     'Paper': 'images/paper.png',
-    'Scissors': 'images/scissors.png',
+    'Scissors': 'images/scissor.png',
     'No Gesture': 'images/waiting.png',
     }
     
